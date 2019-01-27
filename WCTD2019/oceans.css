@@ -1,5 +1,12 @@
 body {
-    background: url("CoralReef.jpg") no-repeat center fixed;
-    background-size: cover; 
+    background-color: skyblue;
     color: black;
+}
+
+#blog {
+    color: white;
+}
+
+#contact {
+    color: white; 
 }
